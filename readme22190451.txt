@@ -1,8 +1,15 @@
 22190451
 oscar antonio vazquez luis
 grupo 901
+<<<<<<< HEAD
 nuevas lineas 
 oooo
 jajajja
 como
 estas
+=======
+holaa
+nueva 
+linea
+jajaja
+>>>>>>> nuevaRamaOscar
